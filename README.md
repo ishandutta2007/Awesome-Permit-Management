@@ -42,59 +42,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[OpenGov Permitting & Licensing](https://opengov.com/)**  
-
-  Cloud platform for government permitting, licensing, plan review, and related workflows with strong traceability and multi-department support.
-
-
-
-- **[Accela](https://www.accela.com/)**  
-
-  Established enterprise civic platform covering permitting, licensing, inspections, planning, code enforcement, and regulatory processes for state and local governments.
-
-
-
-- **[Tyler Technologies EnerGov / Enterprise Permitting & Licensing](https://www.tylertech.com/)**  
-
-  Comprehensive permitting, licensing, and community development solutions widely used by municipalities and counties.
-
-
-
-- **[CityView](https://www.cityview.com/)**  
-
-  Municipal software suite supporting permitting, planning, code enforcement, and related community development functions.
-
-
-
-- **[Cloudpermit](https://cloudpermit.com/)**  
-
-  Digital permitting platform focused on online applications, plan review, inspections, and applicant communication for building departments.
-
-
-
-- **[Clariti, SmartGov, MyGov](https://www.clariti.com/)**  
-
-  Additional municipal and agency platforms offering configurable permitting, licensing, and workflow automation.
-
-
-
-- **[PermitFlow](https://www.permitflow.com/)**  
-
-  Construction-oriented permitting platform that helps teams navigate and manage permit processes across jurisdictions.
-
-
-
-- **[PermitVision and related solutions](https://www.permitvision.com/)**  
-
-  Specialized tools supporting permit tracking, visibility, and process management for agencies and applicants.
-
-
-
-- **[Other municipal platforms](https://opengov.com/)**  
-
-  Solutions such as GovPilot, iWorQ, CivicPlus Community Development, and CentralSquare offerings that include permitting and community development modules.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[OpenGov Permitting & Licensing](https://opengov.com/)** | Cloud platform for civic permitting, licensing, plan review, and multi-department workflow automation. | Starts at ~$20,000/year (base tier for small municipal jurisdictions, unlimited users) | No free forever plan; 30-day agency sandbox pilot upon qualified demonstration |
+| **[Accela Civic Platform](https://www.accela.com/)** | Enterprise civic application suite covering permitting, inspections, planning, and code enforcement. | Starts at ~$15,000/year (~$1,200/user/year or base package on municipal GSA schedule) | No free forever plan; 30-day proof-of-concept pilot environment for government agencies upon request |
+| **[Tyler Technologies EnerGov](https://www.tylertech.com/)** | Full-scale permitting, land management, and licensing software for cities and counties. | Starts at ~$25,000/year (entry-level municipal deployment tier) | No free forever plan; guided sandbox evaluation access during formal procurement review (0-day public trial) |
+| **[CityView](https://www.cityview.com/)** | Municipal suite supporting permitting, digital plan review, inspections, and code enforcement. | Starts at ~$10,000/year (small-town baseline package) | No free forever plan; vendor-led demo sandbox with preloaded test data (0-day public trial) |
+| **[Cloudpermit](https://cloudpermit.com/)** | Digital community development & permitting platform with online intake and mobile inspections. | Starts at ~$7,500/year (entry municipal tier with unlimited user licensing) | No free forever plan; 14-day interactive test workspace for municipal departments upon request |
+| **[Clariti](https://www.clariti.com/)** | Salesforce-native enterprise permitting, licensing, and compliance management platform. | Starts at ~$1,800/year (single-seat baseline) to ~$18,000/year (agency starter package) | No free forever plan; 14-day guided test sandbox upon sales evaluation |
+| **[SmartGov (Granicus)](https://granicus.com/solution/smartgov/)** | Cloud permitting, licensing, and code enforcement portal for local government operations. | Starts at ~$5,000/year (entry tier for small municipalities) | No free forever plan; 30-day guided pilot instance for qualified local government agencies |
+| **[MyGov](https://mygov.us/)** | Modular community development suite offering building permits, planning, and inspections. | Starts at ~$105/month ($1,260/year billed annually per core module) | No free forever plan; 14-day limited feature demo sandbox for city staff |
+| **[PermitFlow](https://www.permitflow.com/)** | Construction permitting workflow platform for general contractors, developers, and architects. | Starts at ~$500/month ($6,000/year for starter contractor project volume) | No free forever plan; 14-day single-project onboarding pilot for licensed contractors |
+| **[Permit Vision (Wolters Kluwer)](https://www.wolterskluwer.com/en/solutions/enablon)** | Industrial electronic permit-to-work (PTW) and operational risk & safety management system. | Starts at ~$50/user/month (~$4,000/month enterprise deployment starter) | No free forever plan; enterprise evaluation access during technical RFP / POC phase (0-day public trial) |
+| **[GovPilot](https://www.govpilot.com/)** | Cloud-based municipal management operating system with 125+ purpose-built government modules. | Starts at ~$3,600/year ($300/month entry tier for micro/small municipalities) | No free forever plan; 14-day interactive sandbox account for municipal staff |
+| **[iWorQ Systems](https://iworq.com/)** | Community development and permitting software tailored for small to mid-sized local governments. | Starts at ~$3,500/year (base population tier under 5,000 residents, unlimited users) | No free forever plan; 30-day fully functional trial account with sample agency data |
+| **[CivicPlus Community Development](https://www.civicplus.com/)** | Integrated civic permitting, licensing, code enforcement, and digital plan review platform. | Starts at ~$4,500/year (base community module tier; citizen/contractor portal access is free) | No free forever plan; 14-day sandbox demonstration access for municipal administrators |
+| **[CentralSquare Community Development](https://www.centralsquare.com/)** | Public sector administration and land management platform for state and local agencies. | Starts at ~$12,000/year (entry-level municipal licensing tier) | No free forever plan; vendor-assisted POC pilot during procurement review (0-day public trial) |
 
 
 
